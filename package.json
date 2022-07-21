@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "fs": "^0.0.1-security",
+    "jszip": "^3.10.0",
+    "mysqldump": "^3.2.0"
+  },
+  "name": "databasebackuper",
+  "description": "🛢 Bot de discord para realizar backups de bases de datos (MySQL) a necesidad.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkuroneko/DatabaseBackuper.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "mysql",
+    "backup",
+    "tool"
+  ],
+  "author": "KuroNeko",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/imkuroneko/DatabaseBackuper/issues"
+  },
+  "homepage": "https://github.com/imkuroneko/DatabaseBackuper#readme"
+}
